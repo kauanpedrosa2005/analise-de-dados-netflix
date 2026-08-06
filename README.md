@@ -55,5 +55,5 @@ Projeto de análise de dados desenvolvido com PostgreSQL e Power BI, com o objet
 
 Kauan Alves Pedrosa
 
-- LinkedIn: www.linkedin.com/in/kauan-alves-a5aba83b6
+- LinkedIn: www.linkedin.com/in/kauan-pedrosa-a5aba83b6
 - GitHub: https://github.com/kauanpedrosa2005
